@@ -1,3 +1,14 @@
+/*
+## Contact Book CLI
+A command line contact book built with python
+1. Add, view, search and delete contacts
+2. Input validation on name, phone and email
+3. Run with: python contact_book.py
+*/
+
+
+
+
 # Add contacts list
 def add_details(contactBook: list) -> None:
     # pass
